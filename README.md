@@ -24,6 +24,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/HTML-lightgrey?style=for-the-badge&logo=html&logoColor=lightgrey" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/CSS-lightgrey?style=for-the-badge&logo=css&logoColor=lightgrey" alt="CSS Badge"/>
+ 
+</div>
 
 
 - 👀 I’m interested in ...
