@@ -12,7 +12,7 @@
   </a>  
 </div>
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sdntmn-github-username&style=flat-square&color=blue" alt="sdn"/>
+  <img src="https://komarev.com/ghpvc/?username=sdntmn&style=flat-square&color=blue" alt="sdn"/>
 </div>
 
 <h1 align="center">
