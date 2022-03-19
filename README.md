@@ -25,7 +25,7 @@
 </div>
 
 ### 👨‍💻 About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I work as a technologist in a company.
 - :seedling: The first steps in learning IT technologies 2020. Completed web development course at YaPracticum 01.2022.
 - :zap: In my free time I continue to study new technologies, study English, read articles on IT.
 - :handshake: I am looking for my first job in IT.
