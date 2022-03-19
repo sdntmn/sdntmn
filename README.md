@@ -25,6 +25,11 @@
 </div>
 
 ### 👨‍💻 About Me :
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :seedling: The first steps in learning IT technologies 2020. Completed web development course at YaPracticum 01.2022.
+- :zap: In my free time I continue to study new technologies, study English, read articles on IT.
+- :handshake: I am looking for my first job in IT.
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](href="https://t.me/sdntmn")
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <h1 align="center">
@@ -49,7 +54,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I work as a production technologist..
 
 - :seedling: Exploring Technical Content Writing.
 
