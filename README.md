@@ -34,6 +34,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <h1 align="center">
   - 👀 Ключевые навыки
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Ключевые навыки
 </h1>
 <div id="badges" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -60,3 +61,4 @@ sdntmn/sdntmn is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
