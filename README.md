@@ -25,16 +25,15 @@
 </div>
 
 ### 👨‍💻 About Me :
+---
 - :telescope: I work as a technologist in the production of thermal covers.
 - :seedling: The first steps in learning IT technologies 2020. Graduated from the web development course at YPracticum 01.2022.
 - :zap: In my free time, I continue to study new technologies for me, study English, read articles on IT.
 - :handshake: I am looking for my first job in IT.
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](href="https://t.me/sdntmn")
 ---
-### :hammer_and_wrench: Languages and Tools : <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<h1 align="center">
-  Ключевые навыки 
-</h1>
+### :hammer_and_wrench: Languages and Tools : 
+---
 <div id="badges" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -47,8 +46,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
   </div>
 
-### :fire: My Stats :
-
+### :fire: My Stats : <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sdntmn&theme=github-%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9&hide_border=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&date_format=j%20M%5B%20Y%5D&background=C3C5DD3F)](https://git.io/streak-stats)
 
 
