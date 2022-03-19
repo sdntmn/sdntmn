@@ -27,7 +27,7 @@
 ### 👨‍💻 About Me :
 - :telescope: I work as a technologist in the production of thermal covers.
 - :seedling: The first steps in learning IT technologies 2020. Graduated from the web development course at YPracticum 01.2022.
-- :zap: In my free time I continue to study new technologies, study English, read articles on IT.
+- :zap: In my free time, I continue to study new technologies for me, study English, read articles on IT.
 - :handshake: I am looking for my first job in IT.
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](href="https://t.me/sdntmn")
 ---
@@ -36,15 +36,23 @@
   - 👀 Ключевые навыки
 </h1>
 <div id="badges" align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  <img src="https://img.shields.io/badge/JavaScript-lightgrey?style=for-the-badge&logo=javaScript&logoColor=lightgrey" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/React-lightgrey?style=for-the-badge&logo=react&logoColor=lightgrey" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Redux-lightgrey?style=for-the-badge&logo=redux&logoColor=lightgrey" alt="Redux Badge"/>
-  <img src="https://img.shields.io/badge/HTML-lightgrey?style=for-the-badge&logo=html&logoColor=lightgrey" alt="HTML Badge"/>
-  <img src="https://img.shields.io/badge/CSS-lightgrey?style=for-the-badge&logo=css&logoColor=lightgrey" alt="CSS Badge"/>
-  <img src="https://img.shields.io/badge/Node.js-lightgrey?style=for-the-badge&logo=node.js&logoColor=lightgrey" alt="Node.js Badge"/>
-  <img src="https://img.shields.io/badge/Git-lightgrey?style=for-the-badge&logo=git&logoColor=lightgrey" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/API-lightgrey?style=for-the-badge&logo=api&logoColor=lightgrey" alt="API Badge"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
  
 </div>
 
