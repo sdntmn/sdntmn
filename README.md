@@ -23,10 +23,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+### 👨‍💻 About Me :
 <h1 align="center">
   - 👀 Ключевые навыки
 </h1>
 <div id="badges" align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <img src="https://img.shields.io/badge/JavaScript-lightgrey?style=for-the-badge&logo=javaScript&logoColor=lightgrey" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/React-lightgrey?style=for-the-badge&logo=react&logoColor=lightgrey" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Redux-lightgrey?style=for-the-badge&logo=redux&logoColor=lightgrey" alt="Redux Badge"/>
@@ -38,8 +41,7 @@
  
 </div>
 
-### 👨‍💻 About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
