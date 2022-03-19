@@ -1,6 +1,10 @@
 <div id="badges">
+  <a href="your-linkedin-URL">
   <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=9cf" alt="Vk Badge"/>
+    </a>
+  <a href="your-linkedin-URL">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=9cf" alt="Telegram Badge"/>
+  </a>
   
   
 </div>
