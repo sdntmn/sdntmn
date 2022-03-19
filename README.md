@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me :
 - :telescope: I work as a technologist in a company.
-- :seedling: The first steps in learning IT technologies 2020. Completed web development course at YaPracticum 01.2022.
+- :seedling: The first steps in learning IT technologies 2020. Graduated from the web development course at Yapracticum 01.2022.
 - :zap: In my free time I continue to study new technologies, study English, read articles on IT.
 - :handshake: I am looking for my first job in IT.
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](href="https://t.me/sdntmn")
@@ -47,20 +47,6 @@
   <img src="https://img.shields.io/badge/API-lightgrey?style=for-the-badge&logo=api&logoColor=lightgrey" alt="API Badge"/>
  
 </div>
-
-
-
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-- :telescope: I work as a production technologist..
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 <!---
 sdntmn/sdntmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
