@@ -1,14 +1,13 @@
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://vk.com/sdntmn">
   <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=9cf" alt="Vk Badge"/>
     </a>
   <a href="https://t.me/sdntmn">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=9cf" alt="Telegram Badge"/>
-  </a>
-  
-  
+  </a>  
 </div>
-
+<br>
+<br>
 <div id="header" align="center">
   
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
