@@ -52,7 +52,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sdntmn&theme=github-%D1%82%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9&hide_border=%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0&date_format=j%20M%5B%20Y%5D&background=C3C5DD3F)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdntmn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdntmn&layout=compact&theme=vision-friendly-dark)](https://github.com/sdntmn/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdntmn)](https://github.com/sdntmn/github-readme-stats)
 <!---
 sdntmn/sdntmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
