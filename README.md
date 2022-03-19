@@ -31,7 +31,7 @@
 - :zap: In my free time, I continue to study new technologies for me, study English, read articles on IT.
 - :handshake: I am looking for my first job in IT.
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](href="https://t.me/sdntmn")
----
+
 ### :hammer_and_wrench: Languages and Tools : 
 ---
 <div id="badges" align="center">
@@ -58,5 +58,3 @@
 sdntmn/sdntmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
