@@ -25,11 +25,11 @@
 </div>
 
 ### 👨‍💻 About Me :
-- :telescope: I work as a technologist in a company.
-- :seedling: The first steps in learning IT technologies 2020. Graduated from the web development course at Yapracticum 01.2022.
+- :telescope: I work as a technologist in the production of thermal covers.
+- :seedling: The first steps in learning IT technologies 2020. Graduated from the web development course at YPracticum 01.2022.
 - :zap: In my free time I continue to study new technologies, study English, read articles on IT.
 - :handshake: I am looking for my first job in IT.
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)](href="https://t.me/sdntmn")
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](href="https://t.me/sdntmn")
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <h1 align="center">
