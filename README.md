@@ -25,6 +25,8 @@
 </div>
 
 ### 👨‍💻 About Me :
+---
+### :hammer_and_wrench: Languages and Tools :
 <h1 align="center">
   - 👀 Ключевые навыки
 </h1>
