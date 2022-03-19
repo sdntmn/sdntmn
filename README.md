@@ -48,7 +48,7 @@
   </div>
 
 ### :fire: My Stats :
-<div align="center">
+<div id="badges" align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sdntmn&theme=dark&background=000000)](https://git.io/streak-stats)
    </div>
 <!---
