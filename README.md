@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=9cf" alt="Telegram Badge"/>
   </a>  
 </div>
-<div id="header" align="center">
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-sdntmn&style=flat-square&color=blue" alt="sdn"/>
 </div>
 
