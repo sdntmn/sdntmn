@@ -23,8 +23,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+<h1 align="center">
+  - 👀 Ключевые навыки
+</h1>
 <div id="badges" align="center">
+   
   <img src="https://img.shields.io/badge/HTML-lightgrey?style=for-the-badge&logo=html&logoColor=lightgrey" alt="HTML Badge"/>
   <img src="https://img.shields.io/badge/CSS-lightgrey?style=for-the-badge&logo=css&logoColor=lightgrey" alt="CSS Badge"/>
  
