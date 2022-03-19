@@ -27,14 +27,19 @@
   - 👀 Ключевые навыки
 </h1>
 <div id="badges" align="center">
-   
+  <img src="https://img.shields.io/badge/JavaScript-lightgrey?style=for-the-badge&logo=javaScript&logoColor=lightgrey" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/React-lightgrey?style=for-the-badge&logo=react&logoColor=lightgrey" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/Redux-lightgrey?style=for-the-badge&logo=redux&logoColor=lightgrey" alt="Redux Badge"/>
   <img src="https://img.shields.io/badge/HTML-lightgrey?style=for-the-badge&logo=html&logoColor=lightgrey" alt="HTML Badge"/>
   <img src="https://img.shields.io/badge/CSS-lightgrey?style=for-the-badge&logo=css&logoColor=lightgrey" alt="CSS Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-lightgrey?style=for-the-badge&logo=node.js&logoColor=lightgrey" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/Git-lightgrey?style=for-the-badge&logo=git&logoColor=lightgrey" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/API-lightgrey?style=for-the-badge&logo=api&logoColor=lightgrey" alt="API Badge"/>
  
 </div>
 
 
-- 👀 I’m interested in ...
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
