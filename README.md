@@ -32,6 +32,11 @@
 - :handshake: I am looking for my first job in IT.
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](href="https://t.me/sdntmn")
 
+### Ready-made projects
+
+- https://place-tmn.students.nomoredomains.work/
+
+
 ### :hammer_and_wrench: Languages and Tools : 
 ---
 <div id="badges" align="center">
