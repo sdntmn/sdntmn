@@ -35,6 +35,9 @@
 ### Ready-made projects
 
 - https://place-tmn.students.nomoredomains.work/
+- https://sdntmn.github.io/my-radio/
+- https://films.nomoredomains.rocks/movies
+- https://sdntmn.github.io/russian-travel/
 
 
 ### :hammer_and_wrench: Languages and Tools : 
