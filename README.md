@@ -33,7 +33,7 @@
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](href="https://t.me/sdntmn")
 
 ### Ready-made projects
-
+- https://sdntmn.github.io/calendar-react /
 - https://place-tmn.students.nomoredomains.work/
 - https://sdntmn.github.io/my-radio/
 - https://films.nomoredomains.rocks/movies
