@@ -27,7 +27,7 @@
 ### 👨‍💻 About Me :
 ---
 - :telescope: I work as a technologist in the production of thermal covers.
-- :seedling: The first steps in learning IT technologies 2020. Graduated from the web development course at YPracticum 01.2022.
+- :seedling: The first steps in learning IT technologies 2020. Graduated from the web development course at YPracticum 03.2022.
 - :zap: In my free time, I continue to study new technologies for me, study English, read articles on web development.
 - :handshake: I am looking for my first job in IT.
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](href="https://t.me/sdntmn")
