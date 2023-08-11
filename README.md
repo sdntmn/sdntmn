@@ -56,9 +56,7 @@
 
 
 ### Ready-made projects
+- https://sdntmn.github.io/radio-ts/
 - https://sdntmn.github.io/calendar-react /
 - https://place-tmn.students.nomoredomains.work/
-- https://sdntmn.github.io/my-radio/
 - https://films.nomoredomains.rocks/movies
-- https://sdntmn.github.io/russian-travel/
-
