@@ -56,7 +56,7 @@
 
 
 ### Ready-made projects
-- https://sdntmn.github.io/https://articles-sdn.netlify.app/
+- https://articles-sdn.netlify.app/
 - https://sdntmn.github.io/radio-ts/
 - https://sdntmn.github.io/calendar-react /
 - https://place-tmn.students.nomoredomains.work/
